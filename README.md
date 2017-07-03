@@ -1,1 +1,1 @@
-# .dotfiles
+Not just dot files
